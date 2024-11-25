@@ -6,7 +6,6 @@ This is a classic Tic-Tac-Toe game built as an Android application using Kotlin.
 ---
 
 ## Features  
-- **Single-player mode**: Challenge the AI with varying difficulty levels.  
 - **Two-player mode**: Play locally with a friend.  
 - **Intuitive UI**: A sleek and responsive interface for all devices.  
 - **Kotlin-powered**: Fully developed using modern Android development practices.  
